@@ -1,0 +1,51 @@
+# Geotecnia1 — La Pintana
+
+> Geotechnical engineering services in La Pintana, Chile.
+
+## Services
+- [Aislacion Sismica](https://la-pintana.geotecnia1.co/aislacion-sismica/)
+- [Anclajes](https://la-pintana.geotecnia1.co/anclajes/)
+- [Calicatas](https://la-pintana.geotecnia1.co/calicatas/)
+- [Cbr Vial](https://la-pintana.geotecnia1.co/cbr-vial/)
+- [Cimentaciones](https://la-pintana.geotecnia1.co/cimentaciones/)
+- [Columnas Grava](https://la-pintana.geotecnia1.co/columnas-grava/)
+- [Densidad Cono Arena](https://la-pintana.geotecnia1.co/densidad-cono-arena/)
+- [Ensayo Cpt](https://la-pintana.geotecnia1.co/ensayo-cpt/)
+- [Ensayos Proctor](https://la-pintana.geotecnia1.co/ensayos-proctor/)
+- [Estabilidad Taludes](https://la-pintana.geotecnia1.co/estabilidad-taludes/)
+- [Excavaciones Profundas](https://la-pintana.geotecnia1.co/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://la-pintana.geotecnia1.co/excavaciones-subterraneo/)
+- [Exploracion](https://la-pintana.geotecnia1.co/exploracion/)
+- [Geotecnia Vial](https://la-pintana.geotecnia1.co/geotecnia-vial/)
+- [Granulometria](https://la-pintana.geotecnia1.co/granulometria/)
+- [Inyecciones](https://la-pintana.geotecnia1.co/inyecciones/)
+- [Laboratorio In Situ](https://la-pintana.geotecnia1.co/laboratorio-in-situ/)
+- [Laboratorio Lab](https://la-pintana.geotecnia1.co/laboratorio-lab/)
+- [Licuefaccion](https://la-pintana.geotecnia1.co/licuefaccion/)
+- [Limites Atterberg](https://la-pintana.geotecnia1.co/limites-atterberg/)
+- [Losas Fundacion](https://la-pintana.geotecnia1.co/losas-fundacion/)
+- [Masw](https://la-pintana.geotecnia1.co/masw/)
+- [Mejoramiento](https://la-pintana.geotecnia1.co/mejoramiento/)
+- [Microzonificacion Sismica](https://la-pintana.geotecnia1.co/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://la-pintana.geotecnia1.co/monitoreo-excavaciones/)
+- [Muros Contencion](https://la-pintana.geotecnia1.co/muros-contencion/)
+- [Pavimento Flexible](https://la-pintana.geotecnia1.co/pavimento-flexible/)
+- [Pavimento Rigido](https://la-pintana.geotecnia1.co/pavimento-rigido/)
+- [Permeabilidad In Situ](https://la-pintana.geotecnia1.co/permeabilidad-in-situ/)
+- [Pilotes](https://la-pintana.geotecnia1.co/pilotes/)
+- [Refraccion Sismica](https://la-pintana.geotecnia1.co/refraccion-sismica/)
+- [Resistividad](https://la-pintana.geotecnia1.co/resistividad/)
+- [Sismica](https://la-pintana.geotecnia1.co/sismica/)
+- [Sondajes Spt](https://la-pintana.geotecnia1.co/sondajes-spt/)
+- [Taludes](https://la-pintana.geotecnia1.co/taludes/)
+- [Triaxial](https://la-pintana.geotecnia1.co/triaxial/)
+- [Tuneles Suelo Blando](https://la-pintana.geotecnia1.co/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://la-pintana.geotecnia1.co/vibrocompactacion/)
+- [Zapatas](https://la-pintana.geotecnia1.co/zapatas/)
+
+## Contact
+- Website: https://la-pintana.geotecnia1.co/
+
+## About
+This site provides geotechnical engineering services in La Pintana, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
